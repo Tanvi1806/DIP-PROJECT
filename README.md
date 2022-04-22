@@ -7,3 +7,6 @@
  <br />
 -**Plate Detection**(Plate_detection.m) – Process the image and then call the above two m-files to detect the number.
  <br />
+**Template Creation**
+ <br />
+First create a folder for the project (my folder name is Number Plate Detection) to save and store the files. We have stored the binary images of all the alphabets and numbers in the sub-folder named as ‘alpha'.
